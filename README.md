@@ -1,5 +1,5 @@
 # WelcomeBBBot - chat bot
-It is repository for chat bot: [@WelcomeBBBot](https://t.me/WelcomeBBBot)
+It is repository for chat bot: [@WhatsApk](https://t.me/WelcomeBBBot)
 
 Welcomes new users in chat.
 
@@ -44,7 +44,7 @@ It is file header:
       aliases: /test2, /test3
     CMD*/
 
-See [more](https://help.bots.business/commands)
+See [more]
 
 ### Command body
 It is command code in JavaScript.
@@ -53,7 +53,7 @@ Use Bot Java Script for logic in command.
 For example:
 > Bot.sendMessage(2+2);
 
-See [more](https://help.bots.business/scenarios-and-bjs)
+See [more]
 
 
 ## Libraries - in libs folder
@@ -74,17 +74,14 @@ then you can run in any bot's command:
     Libs.myLib.hello()
     Libs.myLib.sayGoodbyeTo("Alice")
 
-See [more](https://help.bots.business/git/library)
+See [more]
 
 ## Other bots example
 See other bots examples in the [github](https://github.com/bots-business?utf8=✓&tab=repositories&q=&type=public&language=javascript) or in the [Bot Store](https://bots.business/)
 
 
 ## Other help
-[Help.bots.business](https://help.bots.business)
+
 
 ## API
-See [API](https://api.bots.business/docs#/docs/summary)
-
-
-![](https://bots.business/images/web-logo.png)
+See [API]
